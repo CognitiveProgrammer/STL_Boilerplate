@@ -6,11 +6,11 @@ _A collection of Boilerplate codes for_ __STL (Standard Template Library)__ _whi
 - Inserting elements into the containers
 - Deleting elements from containers
 
-* [1 - Sequence Containers - array](TBD)    
-* [2 - Sequence Containers - vector](TBD)   
-* [3 - Sequence Containers - deque](TBD)   
-* [4 - Sequence Containers - list](TBD)   
-* [5 - Sequence Containers - forward_list](TBD)   
+* [1 - Sequence Containers - std::array](https://github.com/9lean/STL_Boilerplate/tree/master/array)    
+* [2 - Sequence Containers - std::vector - TBD]()    
+* [3 - Sequence Containers - std::deque - TBD]()
+* [4 - Sequence Containers - std::list - TBD]()
+* [5 - Sequence Containers - std::forward_list - TBD]()
 
 
 
